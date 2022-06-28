@@ -1,1 +1,1 @@
-# Cubing
+# Hackathon
